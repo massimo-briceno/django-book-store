@@ -15,6 +15,7 @@ It covers the following Django concepts:
 🚀  Principal functionalities
 
 - Creation, modification and books elimination
+- Admin user: admin, passowrd: Testissimo1!
 
 ## 💻 Requirements
 
